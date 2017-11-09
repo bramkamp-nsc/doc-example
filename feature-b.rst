@@ -24,5 +24,6 @@ No.    Prime
 2      Yes
 3      Yes
 4      No
+5      YO
 ====== ======
 
